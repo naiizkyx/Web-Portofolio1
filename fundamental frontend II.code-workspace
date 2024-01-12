@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "fundamental frontend II",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fundamental frontend II"
+	}
+}
